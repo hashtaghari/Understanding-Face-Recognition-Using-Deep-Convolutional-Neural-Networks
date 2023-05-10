@@ -9,3 +9,5 @@
 5. Task_5 Contains two directories. One has stimuli of cars and the other is the same stimul, but rotated by 180 degrees to show that there is no speciality in the 'face' stimuli, it is the optimisation that results in the inverted face effect. 
 
 The stimuli used for running these tasks are uploaded here:
+
+https://drive.google.com/drive/folders/1frLkzycsuGaqGCeLNyaNDilj4d9Fp5mm?usp=sharing
