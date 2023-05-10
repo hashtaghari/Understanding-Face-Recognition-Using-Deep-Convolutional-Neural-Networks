@@ -27,3 +27,12 @@ The models we trained were for:
   - Link to the original object categorization dataset, Tiny ImageNet dataset - [Click here.](https://www.kaggle.com/datasets/akash2sharma/tiny-imagenet)
   - Link to the original faces dataset, Human faces dataset - [Click here.](https://www.kaggle.com/datasets/ashwingupta3012/human-faces)
   - Face images from this dataset were added to the object classification dataset. 
+
+### Modified datasets
+
+- Faces - [Click here.](https://drive.google.com/drive/folders/1LiL78MVgy1vlQw5nkZZ1YqYNmZdzAj01?usp=share_link)
+- Asian faces - [Click here.](https://drive.google.com/drive/folders/1LiL78MVgy1vlQw5nkZZ1YqYNmZdzAj01?usp=share_link)
+- Car stimuli - [Click here.](https://drive.google.com/drive/folders/1LiL78MVgy1vlQw5nkZZ1YqYNmZdzAj01?usp=share_link)
+- Car stimuli inverted - [Click here.](https://drive.google.com/drive/folders/1LiL78MVgy1vlQw5nkZZ1YqYNmZdzAj01?usp=share_link)
+- White faces - [Click here.](https://drive.google.com/drive/folders/1LiL78MVgy1vlQw5nkZZ1YqYNmZdzAj01?usp=share_link)
+- Obj-Face CNN - [Click here.](https://drive.google.com/drive/folders/1LiL78MVgy1vlQw5nkZZ1YqYNmZdzAj01?usp=share_link)
