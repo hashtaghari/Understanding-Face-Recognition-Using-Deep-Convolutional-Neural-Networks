@@ -7,3 +7,5 @@
 3. Task_4_inverted contains images of stimuli used to test the inverted face effect. It contains images of faces rotated by 180 from task_1.
 4. Task_4_inverted contains images of stimuli used to test the other race effect. It contains two directories, one with face stimuli of asian faces, one with aces of poeple of white race.
 5. Task_5 Contains two directories. One has stimuli of cars and the other is the same stimul, but rotated by 180 degrees to show that there is no speciality in the 'face' stimuli, it is the optimisation that results in the inverted face effect. 
+
+The stimuli used for running these tasks are uploaded here:
