@@ -22,3 +22,8 @@ The models we trained were for:
   - We ran a script to put all identical faces in a folder in this dataset. (Every 5 images in order are images of the same person)
 
 - To build a CNN that can recognise cars, we used the stanford cars dataset - [Click here.](https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset)
+
+- For Obj-Face categorization CNN dataset, 15 object classes dataset was used and faces are added to it. 
+  - Link to the original object categorization dataset, Tiny ImageNet dataset - [Click here.](https://www.kaggle.com/datasets/akash2sharma/tiny-imagenet)
+  - Link to the original faces dataset, Human faces dataset - [Click here.](https://www.kaggle.com/datasets/ashwingupta3012/human-faces)
+  - Face images from this dataset were added to the object classification dataset. 
