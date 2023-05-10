@@ -22,3 +22,12 @@ The models we trained were for:
   - We ran a script to put all identical faces in a folder in this dataset. (Every 5 images in order are images of the same person)
 
 - To build a CNN that can recognise cars, we used the stanford cars dataset - [Click here.](https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset)
+
+
+Here are the downloaded and cleaned datasets we used to trin the models: 
+
+https://drive.google.com/drive/folders/1LiL78MVgy1vlQw5nkZZ1YqYNmZdzAj01?usp=share_link
+
+https://drive.google.com/drive/folders/1csiJXa3iaOw5ImBplCBMdiyK2wglqggY?usp=share_link
+
+
